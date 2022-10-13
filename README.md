@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**alvarochaoecija/alvarochaoecija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alvaro Chao Ecija, a medical student at the Faculty of Medicine of the University of Malaga, with a special interest in research, especially within the field of Human Physiology. I've been collaborating with the Human Physiology, Human Histology, Pathological Anatomy and Physical and Sports Education Department as an intern student, as well as with @CIMES-USNA-UMA, the Autonomic Nervous System Unit of the Medical-Health Research Center of the University of Malaga, since 2019. 
 
-Here are some ideas to get you started:
+🔭 I am currently carrying out research projects related to the study of heart rate variability and baroreflex sensitivity using non-invasive techniques. Part of my work deals with the development of tools that can be applied to these type of analyses, which are currently being developed for the R programming environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## Current work
+
+My current work is being stored in repositories that I created at @CIMES-USNA-UMA. Here are some examples:
+
+# CardioRVAR
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=CardioRVAR)
+
+## Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=alvarochaoecija)
+
+## Other info
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
