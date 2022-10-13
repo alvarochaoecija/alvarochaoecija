@@ -9,11 +9,11 @@
 My current work is being stored in repositories that I created at [@CIMES-USNA-UMA](https://github.com/CIMES-USNA-UMA). Here are some examples:
 
 ### BaroWavelet
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=BaroWavelet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=BaroWavelet)](https://github.com/CIMES-USNA-UMA/BaroWavelet)
 
 ### CardioRVAR
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=CardioRVAR)](https://github.com/CIMES-USNA-UMA/CardioRVAR))
-<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=CardioRVAR) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=CardioRVAR)](https://github.com/CIMES-USNA-UMA/CardioRVAR)
+
 
 ## Stats
 
