@@ -1,6 +1,6 @@
 # Hi!
 
-- I'm Alvaro Chao Ecija, a medical student at the Faculty of Medicine of the University of Malaga, with a special interest in research, especially within the field of Human Physiology. I've been collaborating with the Human Physiology, Human Histology, Pathological Anatomy and Physical and Sports Education Department as an intern student, as well as with @CIMES-USNA-UMA, the Autonomic Nervous System Unit of the Medical-Health Research Center of the University of Malaga, since 2019. 
+- I'm Alvaro Chao Ecija, a medical student at the Faculty of Medicine of the University of Malaga, with a special interest in research, especially within the field of Human Physiology. I've been collaborating with the Human Physiology, Human Histology, Pathological Anatomy and Physical and Sports Education Department as an intern student, as well as with @CIMES-USNA-UMA, the [Autonomic Nervous System Unit of the Medical-Health Research Center of the University of Malaga](@CIMES-USNA-UMA), since 2019. 
 
 - 🔭 I am currently carrying out research projects related to the study of heart rate variability and baroreflex sensitivity using non-invasive techniques. Part of my work deals with the development of tools that can be applied to these type of analyses, which are currently being developed for the R programming environment.
 
