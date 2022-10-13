@@ -20,7 +20,9 @@ My current work is being stored in repositories that I created at [@CIMES-USNA-U
 
 ## Other info
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<!--   - 💬 Ask me about ...   -->
+- 📫 How to reach me: 
+-- [ORCID](https://orcid.org/0000-0002-2691-6936)
+-- [Mail](alvaro.rprojects@gmail.com)
+<!--   - ⚡ Fun fact: ...      -->
 
