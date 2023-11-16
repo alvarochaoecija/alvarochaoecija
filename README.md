@@ -20,6 +20,12 @@ For more information regarding this project and its background, you can check th
 ### CardioRVAR
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CIMES-USNA-UMA&repo=CardioRVAR&theme=vision-friendly-dark)](https://github.com/CIMES-USNA-UMA/CardioRVAR)
 
+For more information regarding this project and its background, you can check the following publication:
+
+- *Chao-Écija, A.; López-González, M.V.; Dawid-Milner, M.S. CardioRVAR: A New R
+and Shiny Application for the Evaluation of Closed-Loop Cardiovascular
+Interactions. Biology 2023, 12, 1438. [https://doi.org/10.3390/biology12111438](https://doi.org/10.3390/biology12111438)*
+
 
 ## Stats
 
